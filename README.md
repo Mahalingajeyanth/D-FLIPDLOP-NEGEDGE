@@ -40,7 +40,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **PROGRAM**
 
- ## Developed by:LAKSHMIDHAR N; RegisterNumber: 24900046
+ ## Developed by:mahalinga jeyanth; RegisterNumber: 24900649
     module exp8(D,clk,Q,Qbar);
     
     input D,clk;
